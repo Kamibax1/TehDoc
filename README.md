@@ -16,7 +16,6 @@ git clone https://github.com/Kamibax1/TehDoc
 ## Структура репозитория:
 ```
 project-root/
-├── .gradle/
 ├── src/
 │   └── main/
 │       └── kotlin/
