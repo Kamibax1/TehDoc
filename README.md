@@ -53,5 +53,16 @@ project-root/
 2. **Добавлен метод сброса** - resetCounter() для обнуления счетчика
 3. **Оптимизированы задержки** - уменьшено время ответа сервиса
 
-## Обратная связь
-tg: Kamibax
+## Контактная информация
+| Канал | Адрес |
+| :--- | :--- |
+| **Telegram** | `@Kamibax` |
+| **E-mail 1** | `kuzmenkoegor49@gmail.com` |
+| **E-mail 2** | `kuzmenkoegor20@gmail.com` |
+| **E-mail 3** | `epro7085@gmail.com` |
+| **E-mail 4** | `bobrovka03@gmail.com` |
+
+## Ссылка на опросник гугл форм
+```
+https://docs.google.com/forms/d/e/1FAIpQLSfSaiG8IQjyLg0HVDvyqCNUYNaMjzLgPBwJXBJsjlKNdzB_Lg/viewform?usp=header
+```
